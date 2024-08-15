@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=WeChatFerry
+Type=Application
+Exec=lxterminal --command "wine /root/.data/wcf/wcf.exe start 10080"
+StartupNotify=true
+Path=/root/.data
+Icon=E03C_WeChat.0
